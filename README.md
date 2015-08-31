@@ -1,10 +1,10 @@
-# Experiment Package
+# Lab Package
 
 About
 ------
-Experiment Package for the **[Remote Labs Learning Enviroment](http://relle.ufsc.br)**.
+Lab Package for the **[Remote Labs Learning Enviroment](http://relle.ufsc.br)**.
 
-Experiment Page
+Lab Page
 ------
 The pages are supported in portuguese language and English. Edit the archives `pt.html` and `en.html`.
 
